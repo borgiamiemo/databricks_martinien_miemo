@@ -1,5 +1,4 @@
 pandas
-tqdm
-selenium
-webdriver_manager
 requests
+bs4
+tqdm
